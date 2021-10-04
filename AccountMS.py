@@ -14,23 +14,7 @@ y = (screen_height/2) - (height/2)
 root.geometry('%dx%d+%d+%d' % (width, height, x, y))
 root.resizable(0, 0)
 
-'''
-a;oifj;alsdkfjas'dlkfjasd
-asd'flkjasd;lfkjasd
-asd'lfkjasldkfjasd
-;alsdjflkasdjfa
-aksdjflakdjfa
-lkajdsflkajdf
-kasdjflkadjflkajdf
-akjdflkajdflkjadlkf
-lakdjflkajdslkfjalsdkfj
-lkajdflkjadlfkjad
-lkasdjflkajdsfklajdsf
-lkjasdlkfjalkdjflaksjdfkalsdjflkadsjfla
-llskdjf
-jlsdakjfl lkdjALK LKajsdlk dflkhasdf sldkfh alsdkf lkasdf la flsdh flkds flk sdflka sdlf sdalf lkasd flsa dfl dfl adsf DSLFH ALSD HFLAS HDFL ASDFLH SDFL SADLF ASDLFKH SD FLSADKHF LA SDFLA SDFLHA SDFL ASDFL SADLF SLAD FLSA HFLS ADFLAH SDFL ASDLFH ASLDFH LASD HFLAS DHFA HSDFL ASDFL ASLKFH LA
- SDFHKALS LSA FLKHSA FL SAFL SAFLSAH FLASH DFL ASFLKH ASDFL SADLF HLASD FLSAD FS ADFLAH SDFL SADLF SALDFH LSA FLAS HFDL ASDFL SDFL HSADLF SDL FLKSD FLS HFDLAS DFL ASDFH SALF ALSD FLSA DFLSA DFL ASFL SDFL HASDLFH ASDLF SALD FALSD FLAS DFLASDH FLSA FLAS HDFLASH DFLA SDFLAS DFLKASH DFL DSFLSA HDFLAS HFLASD HF
-  LASDF LASD LSAKDFH LSA FLSD FLAS DFLAH SDFL ASDF SALDFH LASD FLADH FLAS DFLH ASDLF ASDLFH ASLDHF LASD FLASD FLASD FHLASHD FLASDF ASD'''
+
 #==================================METHODS============================================
 def Database() :
     global conn, cursor
