@@ -14,3 +14,12 @@ The application has a simple GUI. This makes it easy to use. You get welcomed wi
 * Effecient in many ways.
 * Does it's task flawlessly.
 * Safe database.
+
+# Future Goals
+This program being made of python language, has high scope as the language is still evolving. Features such as Password generator, signup page, dark mode etc can be added along with better Graphical Aesthetics, and with more smoother user interface.
+
+# Contribution
+Name: Sangeet Shrestha
+College ID: 210216
+Batch: 30B
+Coventry ID: 11782531
